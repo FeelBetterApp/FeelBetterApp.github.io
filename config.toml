@@ -48,10 +48,10 @@ paginate = 6
 #   URL = "review"
 #   weight = 4
   
-#   [[menu.main]]
-#   name = "Author"
-#   URL = "author"
-#   weight = 5
+  [[menu.main]]
+  name = "Team"
+  URL = "author"
+  weight = 5
   
 #   [[menu.main]]
 #   name = "Blog"
