@@ -165,19 +165,14 @@ devices:
 
 ######################################## author #############################
 author:
-  enable : false
-  image : "images/about/home-1.jpg"
-  name : "Yasin Arafat"
-  designation : "A technical Writer"
+  enable : true
+  image : "images/dubhacks19/6.jpg"
+  name : "The Development Team"
+  designation : "Meet the been boundless"
   content : "
-  Do you want to be even more successful? Learn to love learn and growth. The more efort you put into improving your skills, the bigger the payoff you will get.
-
-
-  It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
-
-  # signature
-  siggnature : "images/about/2.png"
-
+  Dysfunctional table view? Merge conflicts? Main thread issue in image suggestion? Well, that's us,
+  but challenges don't stop us from accustoming lots of code to best utilize cutting-edge technologies.
+  "
 
 ################################ Awards #####################################
 awards:
@@ -253,4 +248,4 @@ contact:
     - title : "Location"
       icon : "ti-location-pin" # themify icon pack : https://themify.me/themify-icons
       list:
-        - listItem : "University of Washington"
+        - listItem : "at University of Washington"
