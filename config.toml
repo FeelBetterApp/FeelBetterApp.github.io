@@ -1,4 +1,4 @@
-baseURL = "https://FeelBetterApp.github.io/"
+baseURL = "https://feelbetter.uwdev.app/"
 languageCode = "en-us"
 title = "Feel Better App - The Smart Diary"
 theme = "influencer"
@@ -74,7 +74,7 @@ author = "Feel Better App"
 # Google Analitycs
 # googleAnalitycsID = "Your ID"
 # copyright
-copyright = "Copyright &copy; 2019 [Feel Better App - The Smart Diary](https://FeelBetterApp.github.io/). All Rights Reserved"
+copyright = "Copyright &copy; 2019-2020 [Feel Better App - The Smart Diary](https://feelbetter.uwdev.app). All Rights Reserved"
 
   # Preloader
   [params.preloader]
